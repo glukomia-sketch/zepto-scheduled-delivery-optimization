@@ -395,6 +395,15 @@ Detailed A/B testing hypotheses, control/variant definitions and measurement pla
 * KPI Definition
 
 ---
+## Product Visuals
+
+### Product Solution — SmartPlan
+
+![SmartPlan Product Solution](assets/product_solution.png)
+
+### User Journey & Prioritization
+
+![User Journey and Impact Effort](assets/user_journey_impact_effort.png)
 
 ## Disclaimer
 
