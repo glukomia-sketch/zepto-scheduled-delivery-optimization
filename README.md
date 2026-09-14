@@ -404,7 +404,6 @@ Detailed A/B testing hypotheses, control/variant definitions and measurement pla
 ### User Journey & Prioritization
 
 ![User Journey and Impact Effort](assets/user_journey_impact_effort.png)
-
 ## Disclaimer
 
 This is an independent Product Management case study created for learning and portfolio purposes. It uses publicly available information, product assumptions and proposed targets. It is not affiliated with or endorsed by Zepto, and the metrics presented are not actual Zepto performance data.
